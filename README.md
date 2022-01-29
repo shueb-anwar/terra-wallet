@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Getting Started with Terra Wallet
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Prequisites
+
+### Terra Station
+
+Terra station is the official wallet of the Terra blockchain. If this is your first time using Station, visit the [download tutorial](https://docs.terra.money/docs/learn/terra-station/download/README.html) to create a wallet.
+
+## How to use this project
+
+Clone the repository
+
+### `git clone https://github.com/shueb-anwar/5percent.git`
+
+Jump to the project directory
+
+### `cd 5percent`
+
+Install node packages
+
+### `npm install`
 
 ## Available Scripts
 
@@ -39,8 +59,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Shueb Anwar [Follow me on LikedIn](https://www.linkedin.com/in/shuaibanwar/).
