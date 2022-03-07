@@ -16,7 +16,7 @@ Clone the repository
 
 Jump to the project directory
 
-### `cd 5percent`
+### `cd terra-wallet`
 
 Install node packages
 
